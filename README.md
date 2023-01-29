@@ -7,7 +7,7 @@
 ###### I am a beginner manual tester looking for my first job. I make every effort to find my first job as soon as possible. I believe that since you are here - I am on the right track.
 
 #### P.S. At the moment I am working on adding something new here.
-#### https://trello.com/b/jV1qGkJf/sprint-1
+#### https://trello.com/b/jV1qGkJf/sprint-2-hol-art-tech
 
 # Skills
  <ul>
