@@ -1,5 +1,4 @@
 # Portfolio
-### A few words about myself: 
  ###### Hi, i'm Artem Holovenets
  ###### Thank you for a visiting my portfolio. 
 
