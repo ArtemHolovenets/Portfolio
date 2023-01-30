@@ -17,11 +17,20 @@
   <li>Looking for bugs</li>
   <li>Reporting bugs with test tools</li>
   <li>Testing applications in SCRUM </li>
-  <li>bla </li>
-  <li>bla </li>
 </ul>
 
 # Tools
+<ul>
+ <li>Jira</li>
+ <li>MySQL</li>
+ <li>Postman</li>
+ <li>TestLink</li>
+ <li>GitHub</li>
+ <li>Java</li>
+ <li>Terminal/UNIX</li>
+ <li>HTML</li>
+ <li>Devtools</li>
+</ul>
 
 # Languages
 <ul>
