@@ -1,13 +1,15 @@
 # Portfolio
-###### Hi, i'm Artem Holovenets
-###### Thank you for a visiting my portfolio. 
+### A few words about myself: 
+ ###### Hi, i'm Artem Holovenets
+ ###### Thank you for a visiting my portfolio. 
 
 
-#### A few words about myself. 
-###### I am a beginner manual tester looking for my first job. I make every effort to find my first job as soon as possible. I believe that since you are here - I am on the right track.
+###### I am a beginner manual tester looking for my first job. I make every effort to find my first job as soon as possible. I believe that since you are here - I am on the right way.
 
-#### P.S. At the moment I am working on adding something new here.
+## Welcome to my project
+#### I would like to present my technical skills in my project. Please - get acquainted. I am still working on it to present as much of my skills as possible 
 #### https://trello.com/b/jV1qGkJf/sprint-2-hol-art-tech
+## How do you rate ? If it is not difficult for you, add a comment what you think. It will help me to improve my skills. 
 
 # Skills
  <ul>
@@ -21,15 +23,16 @@
 
 # Tools
 <ul>
- <li>Jira</li>
- <li>MySQL</li>
- <li>Postman</li>
- <li>TestLink</li>
- <li>GitHub</li>
- <li>Java</li>
- <li>Terminal/UNIX</li>
- <li>HTML</li>
- <li>Devtools</li>
+ <li><b>Jira</b></li>
+ <li><b>MySQL</b></li>
+ <li><b>Postman</b></li>
+ <li><b>TestLink</b></li>
+ <li><b>GitHub</b></li>
+ <li><b>Terminal/UNIX</b></li>
+ <li><b>HTML</b></li>
+ <li><b>Devtools</b></li>
+ <li><b>Java</b> - basic knowledge</li>
+ <li><b>Python</b> - basic knowledge</li>
 </ul>
 
 # Languages
@@ -50,3 +53,9 @@
 
 # Certificates
 ISTQB - in progres (exam 09.02.2023)
+
+# Books
+<ul>
+ <li><b>R. Smiglin - Zawód tester</b></li>
+ <li><b>Sylabus ISTQB FL</b></li>
+</ul>
