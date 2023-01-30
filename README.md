@@ -7,7 +7,8 @@
 
 ## Welcome to my project
 #### I would like to present my technical skills in my project. Please - get acquainted. I am still working on it to present as much of my skills as possible 
-#### https://trello.com/b/jV1qGkJf/hol-art-tech
+#### https://trello.com/b/jV1qGkJf/hol-art-tech 
+##### Visit TestFlo. There you will find 3 attachments that I would like to show off.
 ## How do you rate ? If it is not difficult for you, add a comment what you think. It will help me to improve my skills. 
 
 # Skills
