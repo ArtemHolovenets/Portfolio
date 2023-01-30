@@ -34,7 +34,7 @@
 # Courses
 <ul>
   <li>Tester manualny (manual tester) -- CodersLab (FINISHED)</li> 
-    <ol>https://drive.google.com/file/d/13ATrFpmO1YZMlwYIkeFgCgWlcNPInoLu/view?usp=sharing</ol>
+    <ol>https://drive.google.com/file/d/1j8iSUFtf5u9dWzDMSrSstx33_aXWv1eP/view?usp=sharing</ol>
   <li>Tester automatyzujący (automation tester) -- CodersLab (IN PROGRES)</li> 
 </ul>
 
