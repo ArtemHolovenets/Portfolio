@@ -52,7 +52,7 @@
 </ul>
 
 # Certificates
-ISTQB - in progres (exam 09.02.2023)
+ISTQB No19726/CTFL/2023
 
 # Books
 <ul>
